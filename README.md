@@ -109,6 +109,12 @@ The analysis and visualizations presented in this repository are my own work, ba
 | Sales representatives | 5 |
 | Regions | 4 |
 
+- **Leading region:** North recorded the highest sales, with 1,369,612.51, representing approximately 27.29% of total recorded sales.
+- **Sales channels:** Retail accounted for 51.01% of recorded sales, while Online accounted for 48.99%.
+- **Data quality:** Recorded sales amounts did not match the candidate calculation formulas tested using unit price, quantity sold, and discount. The actual calculation rule remains unconfirmed.
+
+These findings describe the dataset as provided. The currency is unspecified, and the observed discrepancies require further investigation before drawing conclusions about the underlying sales calculation.
+
 *Note: The monetary unit is not specified in the source dataset. These figures represent recorded values, not independently verified revenue.*
 
 ### 2. Sales by Region
