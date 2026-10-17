@@ -1,0 +1,11 @@
+Check,Result,Status
+Missing values,0.0,Passed
+Duplicate rows,0.0,Passed
+Products with changing prices,100.0,Review
+Products with changing costs,100.0,Review
+Products with changing categories,100.0,Review
+Rows where cost exceeds price,0.0,Passed
+Sales formula mismatches,1000.0,Review
+Rows not matching candidate sales formula,1000.0,Informational
+Candidate formula deviation rate (%),100.0,Review
+Mean absolute sales formula error,55027.78,Informational
