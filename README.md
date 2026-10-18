@@ -266,7 +266,7 @@ Aspiring Data Analyst | Python Developer
 
 This is an individual portfolio project developed to practice Python-based data analysis, data quality assessment, business insight generation, and data visualization.
 
-Contributions:
+**Contributions:**
 
 -Dataset exploration and preprocessing
 -Sales performance analysis and KPI calculation
