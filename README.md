@@ -266,13 +266,15 @@ Aspiring Data Analyst | Python Developer
 
 This is an individual portfolio project developed to practice Python-based data analysis, data quality assessment, business insight generation, and data visualization.
 
-**Contributions:**
 
--Dataset exploration and preprocessing
--Sales performance analysis and KPI calculation
--Data quality and consistency checks
--Data visualization using Matplotlib
--Project documentation and organization
+**Contributions**
+
+- Dataset exploration and preprocessing
+- Sales performance analysis and KPI calculation
+- Data quality and consistency checks
+- Data visualization using Matplotlib
+- Project documentation and organization
+
 
 - **GitHub:** [@chrono-byte238](https://github.com/chrono-byte238)
 - **LinkedIn:** [@Alan Ngang](<https://www.linkedin.com/in/alan-ngang-5295a338a>)
