@@ -276,6 +276,7 @@ This is an individual portfolio project developed to practice Python-based data 
 - Project documentation and organization
 
 
+**Contact**
 
 - **GitHub:** [@chrono-byte238](https://github.com/chrono-byte238)
 - **LinkedIn:** [@Alan Ngang](<https://www.linkedin.com/in/alan-ngang-5295a338a>)
